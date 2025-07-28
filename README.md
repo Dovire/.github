@@ -5,7 +5,7 @@ At **Dovire**, we craft **custom, scalable digital solutions** that help solopre
 > *"You define the smooth — we'll design it.*  
 > *You define the effortless — we’ll remove the hassle."*
 
----
+
 
 ## 💡 What We Offer
 
@@ -26,9 +26,9 @@ At **Dovire**, we craft **custom, scalable digital solutions** that help solopre
 - End-to-end deployment Cloud Infras like AWS, GCP  
 - Backend setup (databases, APIs, auth)  
 - Scalable DevOps with CI/CD pipelines  
-- Affordable, secure, and maintenance-friendly  
+- Affordable, secure, and maintenance-friendly
 
----
+
 
 ## 🛠️ How We Work
 - **Done-for-you** & **Done-with-you** models  
@@ -36,15 +36,13 @@ At **Dovire**, we craft **custom, scalable digital solutions** that help solopre
 - Transparent pricing with **monthly retainers**  
 - Clear communication – **no unnecessary jargon, only solutions**
 
----
-
 ## 🧠 Why Clients Choose Us
 - Wide domain knowledge  
 - Problem-solvers, not just coders  
 - We care about **how it works** AND **how it feels**  
 - Built for real-world use, not just code demos
 
----
+
 
 ## 📞 Let’s Build Something That Works
 - **Email:** [info@dovireinfotech.com](mailto:info@dovireinfotech.com)  
